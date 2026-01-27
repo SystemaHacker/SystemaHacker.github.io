@@ -26,7 +26,7 @@ permalink: /malware-analysis/maya_secure_system
 
 ---
 ## 침해 지표
-1. `%userprofile%/Documents/maya/[마야버전]/` 경로의 `userSetup.py` 변조 및 `[maya_secure_system.py]` 파일 생성.   
+1. `%userprofile%/Documents/maya/[마야버전]/` 경로의 `userSetup.py` 변조 및 `maya_secure_system.py` 파일 생성.   
 2. 이후 열람한 Maya scene 파일의 script node에 복제 스크립트인 `maya_secure_system_scriptNode`를 삽입    
 
 ---
